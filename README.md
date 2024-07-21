@@ -100,6 +100,8 @@ LIVEBLOCKS_SECRET_KEY=
 
 Replace the placeholder values with your actual Clerk & LiveBlocks credentials. You can obtain these credentials by signing up on the [Clerk](https://clerk.com/) and [Liveblocks](liveblocks.io/) website.
 
+Figma design of Live Docs->  https://www.figma.com/design/IBIcdzJghLtiqeEmgcSNhl/LiveDocs---Live-Editor?node-id=2-2
+
 **Running the Project**
 
 ```bash
