@@ -38,6 +38,8 @@ Built with Next.js to handle the user interface, Liveblocks for real-time featur
 - Lexical Editor
 - ShadCN
 - Tailwind CSS
+- Sentry
+- clerk
 
 ## <a name="features">🔋 Features</a>
 
@@ -1177,14 +1179,35 @@ export const Notifications = () => {
 
 ## <a name="more">🚀 More</a>
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+Security and Maintenance
+🔒 This project is secured and maintained by Sentry to ensure a smooth and safe user experience. Sentry helps us monitor and fix errors in real-time, making sure the website is always running optimally.
 
+🔐 All users are safely authenticated by Clerk provider, ensuring secure and seamless user authentication. With Clerk, users can be assured that their data is protected, and their login experience is hassle-free.
+
+🔧 Regular maintenance and updates are performed to keep the website feature-rich and up-to-date with the latest security standards.
+
+Future Improvements
+User Authentication: Allow users to sign in and save their liked memes across sessions.
+Meme Categories: Provide options to generate memes from different categories.
+Download Memes: Allow users to download their favorite memes.
+Comments Section: Allow users to comment on memes.
+Dark Mode: Add a toggle for dark mode.
+Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+Fork the repository
+Create a new branch: git checkout -b feature-branch
+Commit your changes: git commit -m 'Add new feature'
+Push to the branch: git push origin feature-branch
+**Submit a pull request`
+License
+This project is open source and available under the MIT License.
 
 <br />
 <br />
 
 **Accelerate your professional journey with the Expert Training program**
 
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
+And if you're hungry for more than just a project and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
 
 
