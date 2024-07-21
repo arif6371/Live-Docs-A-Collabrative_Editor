@@ -12,7 +12,7 @@
   </div>
 
   <h3 align="center">A Collaborative LiveDocs</h3>
-
+  <h4 align="centre">Made by Arif</h4>
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -100,7 +100,10 @@ LIVEBLOCKS_SECRET_KEY=
 
 Replace the placeholder values with your actual Clerk & LiveBlocks credentials. You can obtain these credentials by signing up on the [Clerk](https://clerk.com/) and [Liveblocks](liveblocks.io/) website.
 
-Figma design of Live Docs->  https://www.figma.com/design/IBIcdzJghLtiqeEmgcSNhl/LiveDocs---Live-Editor?node-id=2-2
+
+Figma design of Live Docs->   https://www.figma.com/design/IBIcdzJghLtiqeEmgcSNhl/LiveDocs---Live-Editor?node-id=2-2
+
+This design will help us to understand the full fledge structure and design effeciency of this app made by Arif
 
 **Running the Project**
 
